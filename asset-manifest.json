@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-pronote/pronote/static/css/main.be9ac62b.css",
-    "main.js": "/react-pronote/pronote/static/js/main.976c2750.js",
-    "static/js/787.47fa69d2.chunk.js": "/react-pronote/pronote/static/js/787.47fa69d2.chunk.js",
-    "index.html": "/react-pronote/pronote/index.html",
-    "main.be9ac62b.css.map": "/react-pronote/pronote/static/css/main.be9ac62b.css.map",
-    "main.976c2750.js.map": "/react-pronote/pronote/static/js/main.976c2750.js.map",
-    "787.47fa69d2.chunk.js.map": "/react-pronote/pronote/static/js/787.47fa69d2.chunk.js.map"
+    "main.css": "/react-pronote/static/css/main.be9ac62b.css",
+    "main.js": "/react-pronote/static/js/main.164be0c2.js",
+    "static/js/787.47fa69d2.chunk.js": "/react-pronote/static/js/787.47fa69d2.chunk.js",
+    "index.html": "/react-pronote/index.html",
+    "main.be9ac62b.css.map": "/react-pronote/static/css/main.be9ac62b.css.map",
+    "main.164be0c2.js.map": "/react-pronote/static/js/main.164be0c2.js.map",
+    "787.47fa69d2.chunk.js.map": "/react-pronote/static/js/787.47fa69d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be9ac62b.css",
-    "static/js/main.976c2750.js"
+    "static/js/main.164be0c2.js"
   ]
 }
